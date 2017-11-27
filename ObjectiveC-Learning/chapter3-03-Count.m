@@ -1,5 +1,5 @@
 //
-//  main.m
+//  chapter3-03-Count.m
 //  ObjectiveC-Learning
 //
 //  Created by Nick on 2017/11/25.
@@ -9,10 +9,12 @@
 #import <Foundation/Foundation.h>
 
 //int main(int argc, const char * argv[]) {
-//    @autoreleasepool {
-//        // insert code here...
-//        NSLog(@"Hello, World!");
+//    int count = 10;
+//    
+//    NSLog(@"count to %d", count);
+//    
+//    for (int i = 1; i <= count; i++) {
+//        NSLog(@"%d\n", i);
 //    }
-//    return 0;
 //}
 
